@@ -3,8 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehaldas135" alt="snehaldas135" /></a> </p>
 
-- 🔭 I’m currently working on [SIH](https://github.com/Cyberbee-pro/Hacathon-0)
-
+- 🔭 I’m currently working as intern of webdev 
 - 🌱 I’m currently learning **javascript, figma, blockchain**
 
 - 👯 I’m looking to collaborate on **building more websites!!**
@@ -13,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SnehalDas135](https://github.com/SnehalDas135)
 
-- 📫 How to reach me **niveditaguha78@gmail.com**
+- 📫 How to reach me **snehaldas2006@gmail.com**
 
 - ⚡ Fun fact **I am good at cricket ;)**
 
