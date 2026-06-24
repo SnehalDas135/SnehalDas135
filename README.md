@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0E5EC,100:C8CDD4&height=170&section=header&text=Hey%20👋%20I'm%20Snehal&fontSize=42&fontColor=4A4A4A&fontAlignY=45&desc=Building%20things%20on%20the%20web,%20one%20pixel%20at%20a%20time&descSize=16&descAlignY=65&descColor=6B6B6B&animation=fadeIn" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=4A4A4A&center=true&vCenter=true&width=720&lines=Frontend+Developer;Creative+Web+Builder;Always+learning+something+new" alt="typing animation" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E0E5EC,100:C8CDD4&height=160&section=header&text=Hey%20👋%20I'm%20Snehal&fontSize=42&fontColor=4A4A4A&fontAlignY=55&desc=Building%20things%20on%20the%20web,%20one%20pixel%20at%20a%20time&descSize=16&descAlignY=75&descColor=6B6B6B" width="100%" />
 
 </div>
 
@@ -61,7 +59,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehalDas135&layout=compact&theme=transparent&hide_border=true&border_radius=10&bg_color=E0E5EC&title_color=4A4A4A&text_color=6B6B6B" height="170" alt="top languages" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SnehalDas135&theme=github" height="170" alt="profile summary graph" />
+<img src="https://raw.githubusercontent.com/SnehalDas135/SnehalDas135/trophy-output/trophy.svg?theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="170" alt="trophy graph" />
 
 </div>
 
@@ -71,9 +69,9 @@
 
 <!-- ============ PACMAN CONTRIBUTION GRAPH ============ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnehalDas135/SnehalDas135/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SnehalDas135/SnehalDas135/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SnehalDas135/SnehalDas135/pacman-output/pacman-contribution-graph.svg" width="90%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnehalDas135/SnehalDas135/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SnehalDas135/SnehalDas135/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SnehalDas135/SnehalDas135/pacman-output/pacman-contribution-graph.svg?game=pacman" width="90%" />
 </picture>
 
 </div>
@@ -82,6 +80,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8CDD4,100:E0E5EC&height=110&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:C8CDD4,100:E0E5EC&height=100&section=footer" width="100%" />
 
 </div>
