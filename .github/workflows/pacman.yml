@@ -2,8 +2,8 @@ name: generate pacman graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # runs every 12 hours
-  workflow_dispatch:          # lets you trigger it manually from the Actions tab
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -15,7 +15,7 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: generate pacman contribution graph
+      - name: generate pacman contribution graph (light)
         uses: matchai/pacman-contribution-graph@v3.1.0
         with:
           github_user_name: SnehalDas135
@@ -23,13 +23,13 @@ jobs:
           output_path: dist/pacman-contribution-graph.svg
           theme: classic
 
-      - name: generate dark theme version
+      - name: generate pacman contribution graph (dark, high contrast)
         uses: matchai/pacman-contribution-graph@v3.1.0
         with:
           github_user_name: SnehalDas135
           github_token: ${{ secrets.GITHUB_TOKEN }}
           output_path: dist/pacman-contribution-graph-dark.svg
-          theme: github-dark
+          theme: vue-dark
 
       - name: push to pacman-output branch
         uses: crazy-max/ghaction-github-pages@v4
