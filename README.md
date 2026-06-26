@@ -70,6 +70,8 @@
 <!-- ============ DAILY CONTRIBUTIONS ACTIVITY GRAPH ============ -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SnehalDas135&bg_color=E0E5EC&color=4A4A4A&line=8B92A0&point=4A4A4A&area=true&area_color=C8CDD4&title_color=4A4A4A&hide_border=true&radius=12" width="90%" alt="daily contributions activity graph" />
 
+</div>
+
 <br />
 
 <div align="center">
