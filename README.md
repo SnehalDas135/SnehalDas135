@@ -49,7 +49,7 @@
 <!-- ============ STATS + STREAK ============ -->
 <img src="https://streak-stats.demolab.com?user=SnehalDas135&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=10&ring=C8CDD4&fire=A0A6AE&currStreakLabel=4A4A4A&background=E0E5EC&stroke=E0E5EC&sideLabels=6B6B6B&sideNums=4A4A4A&dates=6B6B6B&order=3" height="180" alt="streak graph" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=SnehalDas135&show_icons=true&theme=transparent&hide_border=true&border_radius=10&bg_color=E0E5EC&title_color=4A4A4A&icon_color=A0A6AE&text_color=6B6B6B&ring_color=C8CDD4" height="180" alt="github stats" />
+<img src="./profile/stats.svg" height="180" alt="github stats" />
 
 </div>
 
@@ -57,7 +57,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehalDas135&layout=compact&theme=transparent&hide_border=true&border_radius=10&bg_color=E0E5EC&title_color=4A4A4A&text_color=6B6B6B" height="170" alt="top languages" />
+<img src="./profile/top-langs.svg" height="170" alt="top languages" />
 
 <img src="https://raw.githubusercontent.com/SnehalDas135/SnehalDas135/trophy-output/trophy.svg?theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="170" alt="trophy graph" />
 
@@ -89,6 +89,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:C8CDD4,100:E0E5EC&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:C8CDD4,100:E0E5EC&height=40&section=footer" width="100%" />
 
 </div>
