@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E0E5EC,100:C8CDD4&height=160&section=header&text=Hey%20%20I'm%20Snehal&fontSize=42&fontColor=4A4A4A&fontAlignY=55&desc=Building%20things%20on%20the%20web,%20one%20pixel%20at%20a%20time&descSize=16&descAlignY=75&descColor=6B6B6B" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E0E5EC,100:C8CDD4&height=160&section=header&text=Hey%20👋%20I'm%20Snehal&fontSize=42&fontColor=4A4A4A&fontAlignY=55&desc=Building%20things%20on%20the%20web,%20one%20pixel%20at%20a%20time&descSize=16&descAlignY=75&descColor=6B6B6B" width="100%" />
 
 </div>
 
@@ -59,7 +59,7 @@
 
 <img src="./profile/top-langs.svg" height="170" alt="top languages" />
 
-<img src="https://raw.githubusercontent.com/SnehalDas135/SnehalDas135/trophy-output/trophy.svg?theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="170" alt="trophy graph" />
+<img src="https://github-profile-trophy.vercel.app/?username=SnehalDas135&theme=flat&no-frame=true&margin-w=8&margin-h=8&column=-1&row=1" height="170" alt="trophy graph" />
 
 </div>
 
