@@ -49,7 +49,7 @@
 <!-- ══════════ STREAK + STATS ══════════ -->
 <img src="https://streak-stats.demolab.com?user=SnehalDas135&theme=dark&background=000000&ring=ffffff&fire=bbbbbb&currStreakLabel=ffffff&sideLabels=555555&sideNums=ffffff&dates=444444&currStreakNum=ffffff&border=222222&hide_border=false&border_radius=8" height="165" alt="streak graph" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=SnehalDas135&show_icons=true&bg_color=000000&title_color=ffffff&text_color=555555&icon_color=ffffff&border_color=222222&border_radius=8&hide_border=false" height="165" alt="github stats" />
+<img src="https://github-readme-stats-snehal-das.vercel.app/api?username=SnehalDas135&show_icons=true&bg_color=000000&title_color=ffffff&text_color=555555&icon_color=ffffff&border_color=222222&border_radius=8&hide_border=false" height="165" alt="github stats" />
 
 </div>
 
